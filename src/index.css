@@ -1,0 +1,10 @@
+body{
+  background-color: grey;
+}
+.container{
+  background-color: lavender;
+}
+.dark{
+  background-color: #3f3F4E;
+  color: aliceblue;
+}
